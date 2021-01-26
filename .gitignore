@@ -130,6 +130,10 @@ dmypy.json
 
 #####
 #####
+#####
+
+# DS Store
+.DS_Store 
 
 # API key
 api_key.py
